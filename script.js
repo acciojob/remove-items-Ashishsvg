@@ -1,1 +1,4 @@
-//your JS code here. If required.
+function removeColor(){
+	var x =  document.getElementById("colorSelect")
+	x.remove.(x.SelectedIndex);
+}
